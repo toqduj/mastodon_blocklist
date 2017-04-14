@@ -16,8 +16,12 @@ Current criteria:
 -- 
 The current criteria for accounts to be included in the blocklist are those which:
   - spam messages
-  - intended for commercial advertising
-  - breaks community guidelines
+  - are specifically intended for commercial advertising purposes
+  - delberately break community guidelines
   - obvious racists 
   - obvious misogynists 
   - obvious bullies
+
+Documentation
+--
+For arbitration purposes, a screenshot showing the offending toots is recommended to be saved alongside. 
